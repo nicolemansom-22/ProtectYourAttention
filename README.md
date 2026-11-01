@@ -10,7 +10,7 @@ A shooting-style game that raises awareness about the negative effects of doomsc
 
   
 ## Setup
-Play the game by copying the link below: https://arcade.makecode.com/S55730-51880-04459-56049  
+Play the game by copying the link below: https://arcade.makecode.com/S00038-70644-43869-94580
 
 
 ## Project Status
