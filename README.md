@@ -19,6 +19,5 @@ This game is currently a prototype
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was inspired by real-world expirences
+- Many thanks to all the educational resources
